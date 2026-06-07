@@ -6,11 +6,11 @@ Escolhi o tema Inteligência Artificial porque é uma tecnologia cada vez mais p
 
 ## Objetivos
 
-# Compreender os conceitos básicos de Inteligência Artificial.
-# Entender o funcionamento do Machine Learning.
-# Conhecer os principais tipos de IA.
-# Identificar aplicações práticas da tecnologia.
-# Aprender a utilizar o NotebookLM como ferramenta de apoio aos estudos.
+* Compreender os conceitos básicos de Inteligência Artificial.
+* Entender o funcionamento do Machine Learning.
+* Conhecer os principais tipos de IA.
+* Identificar aplicações práticas da tecnologia.
+* Aprender a utilizar o NotebookLM como ferramenta de apoio aos estudos.
 
 ## Fontes
 
@@ -135,6 +135,6 @@ Algoritmo: Conjunto de instruções utilizado para resolver problemas ou executa
 * Compare os principais conceitos apresentados nas fontes.
 * Identifique aplicações práticas do tema no cotidiano.
  
-###Conclusão
+### Conclusão
 
 A utilização do NotebookLM facilitou a organização das informações e permitiu explorar diferentes perspectivas sobre Inteligência Artificial. Além de aprender sobre o tema, a atividade demonstrou a importância da engenharia de prompts para obter respostas mais precisas e relevantes.
