@@ -6,11 +6,11 @@ Escolhi o tema Inteligência Artificial porque é uma tecnologia cada vez mais p
 
 ## Objetivos
 
-* Compreender os conceitos básicos de Inteligência Artificial.
-* Entender o funcionamento do Machine Learning.
-* Conhecer os principais tipos de IA.
-* Identificar aplicações práticas da tecnologia.
-* Aprender a utilizar o NotebookLM como ferramenta de apoio aos estudos.
+- Compreender os conceitos básicos de Inteligência Artificial.
+- Entender o funcionamento do Machine Learning.
+- Conhecer os principais tipos de IA.
+- Identificar aplicações práticas da tecnologia.
+- Aprender a utilizar o NotebookLM como ferramenta de apoio aos estudos.
 
 ## Fontes
 
@@ -90,17 +90,23 @@ Durante a atividade percebi que a qualidade da resposta depende diretamente da q
 
 O que é Inteligência Artificial?
 
+...
+
 A Inteligência Artificial é um campo da computação dedicado ao desenvolvimento de sistemas capazes de realizar tarefas que normalmente exigem inteligência humana, como reconhecimento de padrões, interpretação de linguagem, tomada de decisões e aprendizado.
 
 Machine Learning
+
+...
 
 Machine Learning é uma subárea da IA que permite aos sistemas aprenderem a partir de dados. Em vez de seguir apenas regras fixas, os algoritmos identificam padrões e melhoram seu desempenho ao longo do tempo.
 
 Deep Learning
 
+...
+
 Deep Learning utiliza redes neurais artificiais com múltiplas camadas para processar grandes volumes de dados. Essa tecnologia é amplamente utilizada em reconhecimento de voz, imagens e processamento de linguagem natural.
 
-###Aplicações da IA
+### Aplicações da IA
 
 - Assistentes virtuais.
 - Tradução automática.
