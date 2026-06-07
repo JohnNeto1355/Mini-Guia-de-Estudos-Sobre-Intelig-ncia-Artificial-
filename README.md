@@ -2,12 +2,15 @@
 Projeto desenvolvido para o desafio NotebookLM da DIO sobre Inteligência Artificial.
 
 ## Contexto
-Este projeto foi desenvolvido para o desafio NotebookLM da DIO.
+Escolhi o tema Inteligência Artificial porque é uma tecnologia cada vez mais presente no nosso dia a dia. Desde assistentes virtuais até sistemas de recomendação e ferramentas de geração de conteúdo, a IA está transformando a forma como interagimos com a tecnologia. O objetivo deste estudo foi compreender os conceitos fundamentais da área e explorar suas principais aplicações.
 
 ## Objetivos
-- Aprender conceitos de IA
-- Entender Machine Learning
-- Conhecer aplicações da IA
+
+# Compreender os conceitos básicos de Inteligência Artificial.
+# Entender o funcionamento do Machine Learning.
+# Conhecer os principais tipos de IA.
+# Identificar aplicações práticas da tecnologia.
+# Aprender a utilizar o NotebookLM como ferramenta de apoio aos estudos.
 
 ## Fontes
 
@@ -31,49 +34,53 @@ Este projeto foi desenvolvido para o desafio NotebookLM da DIO.
 
 ### Prompt 1
 
-**Pergunta:**
+Pergunta:
 Explique Inteligência Artificial para um iniciante.
 
-**Resultado obtido:**
-A IA foi apresentada de forma simples, mostrando conceitos básicos e aplicações práticas.
+Resultado obtido:
+Recebi uma explicação clara sobre o conceito de IA e algumas aplicações presentes no cotidiano.
 
-**Dificuldade encontrada:**
-A resposta inicial estava muito genérica.
+Dificuldade encontrada:
+A resposta apresentou uma visão geral do tema, mas não detalhou como a tecnologia funciona na prática.
 
-**Ajuste realizado:**
-Explique Inteligência Artificial para um iniciante utilizando exemplos do dia a dia.
+Ajuste realizado:
+Pedi exemplos do dia a dia e uma explicação mais simples. Com isso, a resposta ficou mais fácil de entender.
 
 ---
 
 ### Prompt 2
 
-**Pergunta:**
+Pergunta:
 Quais são os principais tipos de Inteligência Artificial?
 
-**Resultado obtido:**
+Resultado obtido:
 Foram apresentados os conceitos de IA Estreita (ANI), IA Geral (AGI) e Superinteligência (ASI).
 
-**Dificuldade encontrada:**
-A resposta não apresentava exemplos práticos.
+Dificuldade encontrada:
+Inicialmente tive dificuldade para visualizar a diferença entre cada categoria.
 
-**Ajuste realizado:**
-Explique os tipos de IA e forneça exemplos reais para cada categoria.
+Ajuste realizado:
+Solicitei exemplos reais de cada tipo. Isso ajudou a compreender que a maioria das soluções atuais pertence à categoria de IA Estreita.
 
 ---
 
 ### Prompt 3
 
-**Pergunta:**
+Pergunta:
 Crie um glossário com os principais conceitos relacionados à Inteligência Artificial.
 
-**Resultado obtido:**
-Foram listados conceitos como Machine Learning, Deep Learning, NLP e Redes Neurais.
+Resultado obtido:
+O NotebookLM gerou uma lista com termos importantes como Machine Learning, Deep Learning, NLP e Redes Neurais.
 
-**Dificuldade encontrada:**
-Alguns termos estavam muito técnicos.
+Dificuldade encontrada:
+Alguns conceitos foram apresentados de forma muito técnica.
 
-**Ajuste realizado:**
-Crie um glossário voltado para estudantes iniciantes.
+Ajuste realizado:
+Solicitei explicações voltadas para estudantes iniciantes, tornando o material mais acessível.
+
+###Reflexões sobre o Processo
+
+Durante a atividade percebi que a qualidade da resposta depende diretamente da qualidade do prompt. Pequenas alterações na forma de perguntar geraram respostas mais completas e úteis. Também observei que utilizar diferentes fontes ajudou a obter uma visão mais ampla sobre o tema.
 
 
 ## Mini Guia de Estudos 
@@ -81,48 +88,53 @@ Crie um glossário voltado para estudantes iniciantes.
 
 ### Resumo Estruturado
 
-#### O que é Inteligência Artificial?
+O que é Inteligência Artificial?
 
-A Inteligência Artificial é uma área da computação que desenvolve sistemas capazes de executar tarefas que normalmente exigiriam inteligência humana.
+A Inteligência Artificial é um campo da computação dedicado ao desenvolvimento de sistemas capazes de realizar tarefas que normalmente exigem inteligência humana, como reconhecimento de padrões, interpretação de linguagem, tomada de decisões e aprendizado.
 
-#### Machine Learning
+Machine Learning
 
-Subárea da IA que permite aos sistemas aprenderem a partir de dados sem serem explicitamente programados para cada situação.
+Machine Learning é uma subárea da IA que permite aos sistemas aprenderem a partir de dados. Em vez de seguir apenas regras fixas, os algoritmos identificam padrões e melhoram seu desempenho ao longo do tempo.
 
-#### Deep Learning
+Deep Learning
 
-Técnica baseada em redes neurais profundas utilizada em reconhecimento de imagens, voz e linguagem natural.
+Deep Learning utiliza redes neurais artificiais com múltiplas camadas para processar grandes volumes de dados. Essa tecnologia é amplamente utilizada em reconhecimento de voz, imagens e processamento de linguagem natural.
 
-#### Aplicações da IA
+###Aplicações da IA
 
-* Assistentes virtuais
-* Tradução automática
-* Diagnóstico médico
-* Reconhecimento facial
-* Veículos autônomos
+Assistentes virtuais.
+Tradução automática.
+Reconhecimento facial.
+Diagnóstico médico.
+Sistemas de recomendação.
+Veículos autônomos.
 
 ---
 
 ### Glossário
 
-IA: Inteligência Artificial.
+IA: Área da computação voltada para a criação de sistemas inteligentes.
 
-Machine Learning: Aprendizado automático baseado em dados.
+Machine Learning: Técnica que permite que computadores aprendam a partir de dados.
 
-Deep Learning: Aprendizado profundo utilizando redes neurais.
+Deep Learning: Subárea do Machine Learning baseada em redes neurais profundas.
 
-NLP: Processamento de Linguagem Natural.
+NLP: Processamento de Linguagem Natural, utilizado para compreender e gerar linguagem humana.
 
-Algoritmo: Conjunto de instruções para resolver um problema.
+Algoritmo: Conjunto de instruções utilizado para resolver problemas ou executar tarefas.
 
 ---
 
 ### Prompts Reutilizáveis
 
-* Explique este tema para um iniciante.
-* Crie um resumo em tópicos.
-* Gere um glossário dos conceitos principais.
-* Crie 10 questões de revisão com respostas.
+* Explique este tema para alguém sem conhecimento prévio.
+* Faça um resumo em tópicos dos conceitos mais importantes.
+* Crie um glossário com definições simples.
+* Gere 10 questões de revisão com respostas comentadas.
 * Monte um plano de estudos baseado neste conteúdo.
 * Compare os principais conceitos apresentados nas fontes.
+* Identifique aplicações práticas do tema no cotidiano.
+ 
+###Conclusão
 
+A utilização do NotebookLM facilitou a organização das informações e permitiu explorar diferentes perspectivas sobre Inteligência Artificial. Além de aprender sobre o tema, a atividade demonstrou a importância da engenharia de prompts para obter respostas mais precisas e relevantes.
