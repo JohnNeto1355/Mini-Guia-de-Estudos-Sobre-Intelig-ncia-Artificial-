@@ -78,7 +78,7 @@ Alguns conceitos foram apresentados de forma muito técnica.
 Ajuste realizado:
 Solicitei explicações voltadas para estudantes iniciantes, tornando o material mais acessível.
 
-###Reflexões sobre o Processo
+### Reflexões sobre o Processo
 
 Durante a atividade percebi que a qualidade da resposta depende diretamente da qualidade do prompt. Pequenas alterações na forma de perguntar geraram respostas mais completas e úteis. Também observei que utilizar diferentes fontes ajudou a obter uma visão mais ampla sobre o tema.
 
@@ -102,12 +102,12 @@ Deep Learning utiliza redes neurais artificiais com múltiplas camadas para proc
 
 ###Aplicações da IA
 
-Assistentes virtuais.
-Tradução automática.
-Reconhecimento facial.
-Diagnóstico médico.
-Sistemas de recomendação.
-Veículos autônomos.
+- Assistentes virtuais.
+- Tradução automática.
+- Reconhecimento facial.
+- Diagnóstico médico.
+- Sistemas de recomendação.
+- Veículos autônomos.
 
 ---
 
